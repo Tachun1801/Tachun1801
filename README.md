@@ -2,6 +2,7 @@
 
 # 👋 Hey, I'm **Tachun1801**
 
+### Study at: HUST
 ### Backend Developer | BrSE Engineer | Cloud Engineer
 
 </div>
