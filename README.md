@@ -3,6 +3,7 @@
 # 👋 Hey, I'm **Tachun1801**
 
 ### Study at: HUST
+### Language: Vietnamese, Japanese, English
 ### Backend Developer | BrSE Engineer | Cloud Engineer
 
 </div>
