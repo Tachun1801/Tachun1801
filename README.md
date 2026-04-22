@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm **Tachun1801**
 
-### Backend Developer
+### Backend Developer | BrSE Engineer | Cloud Engineer
 
 </div>
 
