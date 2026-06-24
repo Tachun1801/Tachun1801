@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Thanh%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Development%20%E2%80%A2%20Cloud%20Computing%20%E2%80%A2%20Japanese&descSize=15&descAlignY=58&descColor=aad4f5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Thanh%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20%E2%80%A2%20Cloud%20Engineering%20%E2%80%A2%20Japanese&descSize=15&descAlignY=58&descColor=aad4f5"/>
 
 <a href="https://github.com/Tachun1801">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+HUST;Java+Backend+Developer+Path;Learning+Cloud+Computing+and+DevOps;Vietnamese+%7C+Japanese+%7C+English" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+at+HUST;Java+Backend+Developer+Path;Learning+Cloud+Engineering+and+DevOps;Vietnamese+%7C+Japanese+%7C+English" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ Alias: Tachun1801
 
 Education:
   University: Hanoi University of Science and Technology (HUST)
-  Program: Vietnam-Japan Information Technology (VJP)
+  Program: Vietnam-Japan Information Technology (HEDSPI)
 
 Current Focus:
   - Java Backend Development
@@ -96,7 +96,7 @@ Career Goal:
 * Master Java Backend fundamentals
 * Learn AWS Cloud fundamentals
 * Achieve JLPT N2
-* Secure Backend Internship
+* Secure a Backend Internship
 * Improve System Design knowledge
 
 ---
@@ -121,16 +121,16 @@ Career Goal:
 
 ---
 
-## 🏗️ Projects
+## 🏗️ Featured Projects
 
-| Project                | Tech                           | Description                                                                                             |
-| ---------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| 🤖 AI Platform         | Python · AI · Machine Learning | Contributed to an AI-related project, collaborating on development and experimentation within the team. |
-| 🎮 Paradise Seeker     | Java · LibGDX                  | RPG game project focusing on game architecture, entities, maps, and gameplay systems.                   |
-| ⚙️ Spring Boot APIs    | Java · Spring Boot · MySQL     | Collection of backend projects for learning REST APIs, authentication, and database design.             |
-| ☁️ Cloud Learning Labs | AWS · Docker · Linux           | Hands-on cloud and deployment experiments while learning cloud engineering fundamentals.                |
-```
-```
+| Project                | Tech                       | Description                                                                                                                          |
+| ---------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 🤖 Text to Speech      | Python · Machine Learning  | Contributed to an AI project, collaborating on development, experimentation, and technical implementation within a team environment. |
+| 🎮 Paradise Seeker     | Java · LibGDX · Gradle     | RPG game project focusing on architecture design, entity systems, maps, and gameplay mechanics.                                      |
+| ⚙️ Spring Boot APIs    | Java · Spring Boot · MySQL | Backend learning projects covering REST APIs, authentication, database design, and application architecture.                         |
+| ☁️ Cloud Learning Labs | AWS · Docker · Linux       | Hands-on cloud deployment and DevOps experiments while exploring cloud engineering concepts.                                         |
+
+---
 
 ## 💡 Interests
 
@@ -138,8 +138,8 @@ Career Goal:
 * Cloud Infrastructure
 * Software Engineering
 * DevOps Culture
-* Japanese IT Industry
 * System Design
+* Japanese IT Industry
 
 ---
 
@@ -173,7 +173,7 @@ Career Goal:
 
 Persistence builds strength.
 
-Backend Development • Cloud Computing • Japanese
+Java Backend • Cloud Engineering • Japanese
 
 </div>
 
