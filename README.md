@@ -27,7 +27,7 @@
 | 🔭 **Building** | REST API with Spring Boot + JWT authentication |
 | 📖 **Learning** | AWS Cloud Practitioner → Solutions Architect |
 | 🇯🇵 **Japanese** | Practicing JLPT N2 — reading + listening daily |
-| 🤝 **Open to** | Backend internship · BrSE junior roles |
+| 🤝 **Open to** | Backend internship  |
 
 ---
 
