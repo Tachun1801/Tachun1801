@@ -47,6 +47,35 @@ Career Goal:
 ```
 
 ---
+## 🏆 Certifications & Professional Development
+
+### Achieved
+
+* ✅ JLPT N4 (Japanese Language Proficiency Test)
+
+### Currently Pursuing
+
+* 🚧 JLPT N3
+* 🚧 TOEIC 700+
+
+### Planned Certifications
+
+* 🎯 AWS Certified Solutions Architect – Associate (SAA)
+* 🎯 FE (Fundamental Information Technology Engineer)
+* 🎯 Oracle Certified Professional Java
+* 🎯 MySQL 8.0 Database Developer
+* 🎯 LPIC-1 Linux Administrator
+
+### Long-Term Learning Interests
+
+* Cloud Architecture & Infrastructure
+* DevOps & Automation
+* Container Technologies (Docker & Kubernetes)
+* System Design & Distributed Systems
+* Japanese IT Industry & Engineering Practices
+---
+
+---
 
 ## 🎯 Current Focus
 
@@ -64,29 +93,39 @@ Career Goal:
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### API & Testing
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Tools
+### Build Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+### Game Development
+
+![LibGDX](https://img.shields.io/badge/LibGDX-000000?style=flat-square)
 
 ---
 
@@ -123,12 +162,12 @@ Career Goal:
 
 ## 🏗️ Featured Projects
 
-| Project                | Tech                       | Description                                                                                                                          |
-| ---------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 🤖 Text to Speech      | Python · Machine Learning  | Contributed to an AI project, collaborating on development, experimentation, and technical implementation within a team environment. |
-| 🎮 Paradise Seeker     | Java · LibGDX · Gradle     | RPG game project focusing on architecture design, entity systems, maps, and gameplay mechanics.                                      |
-| ⚙️ Spring Boot APIs    | Java · Spring Boot · MySQL | Backend learning projects covering REST APIs, authentication, database design, and application architecture.                         |
-| ☁️ Cloud Learning Labs | AWS · Docker · Linux       | Hands-on cloud deployment and DevOps experiments while exploring cloud engineering concepts.                                         |
+| Project | Tech | Highlights |
+|----------|----------|----------|
+| 🎮 Paradise Seeker | Java · LibGDX · Gradle | Custom game architecture, entity system, tile-based world, NPC interaction, save/load framework, quest and dialogue systems |
+| ⚙️ Spring Boot APIs | Java · Spring Boot · MySQL | RESTful API development, database design, authentication, CRUD operations, backend architecture practices |
+| 🤖 Text-to-Speech Project | Python · AI · Deep Learning | Team-based AI project focused on speech synthesis, model experimentation, training workflows, and deployment exploration |
+| ☁️ Cloud Learning Labs | AWS · Docker · Linux | Containerization, deployment experiments, Linux administration, cloud infrastructure fundamentals |
 
 ---
 
