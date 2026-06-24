@@ -81,12 +81,6 @@ Languages:
 <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
-### Game Development
-
-<p>
-<img src="https://libgdx.com/assets/brand/stacked.png"/>
-</p>
-
 ### Cloud & DevOps
 
 <p>
