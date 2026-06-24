@@ -72,7 +72,7 @@ Languages:
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 ### Database
