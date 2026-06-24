@@ -1,98 +1,131 @@
 <div align="center">
 
-# ⚡ Tachun1801
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Tachun1801&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### Backend Engineer • BrSE (JP-VN) • Cloud Enthusiast  
-### 🎓 HUST | Hanoi, Vietnam  
-### 🌏 VI / JP / EN
+# 👨‍💻 Thanh Trung
 
-<br/>
+### Backend Engineer • Cloud Enthusiast • BrSE Candidate
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tachun1801&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tachun1801&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p>
+Building reliable systems, learning cloud technologies, and connecting engineering with business communication.
+</p>
+
+<p>
+<a href="https://github.com/Tachun1801">
+<img src="https://img.shields.io/github/followers/Tachun1801?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Tachun1801&style=for-the-badge"/>
+
+</p>
+
+<br>
+
+<a href="https://github.com/Tachun1801">
+<img src="https://github-readme-stats.vercel.app/api?username=Tachun1801&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Tachun1801">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tachun1801&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
 ---
 
-## 🧭 ABOUT
+# 🚀 About Me
 
-> Backend-focused engineer interested in building systems that scale, survive, and don’t randomly break at 2AM.
+```yaml
+Name: Thanh Trung
+Location: Hanoi, Vietnam
+University: Hanoi University of Science and Technology
+Major: Information Technology (Vietnam - Japan Program)
 
-- ⚙️ Focus: Backend systems, APIs, architecture, performance
-- ☁️ Interested in Cloud, distributed systems, DevOps mindset
-- 🌐 Bridging engineering + communication (BrSE direction)
-- 🧠 Thinking in terms of systems, not just code
+Current Focus:
+  - Backend Development
+  - Cloud Engineering
+  - System Design
+  - DevOps Fundamentals
 
----
-
-## ⚙️ TECH STACK
-
-<table align="center">
-
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Database</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Cloud / DevOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</td>
-</tr>
-
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</td>
-</tr>
-
-</table>
+Languages:
+  - Vietnamese 🇻🇳
+  - Japanese 🇯🇵
+  - English 🇬🇧
+```
 
 ---
 
-## 🚀 FOCUS
+# ⚡ Tech Stack
 
-- System Design Basics
-- REST API Architecture
-- Database Design & Optimization
-- Backend Performance Thinking
-- Cloud Deployment Awareness
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
+</p>
 
 ---
 
-## 📊 GITHUB INSIGHTS
+# 🎯 Current Goals
+
+* Master Spring Boot ecosystem
+* Learn Cloud Architecture
+* Improve Japanese for BrSE career path
+* Build production-ready backend projects
+* Understand distributed systems fundamentals
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tachun1801&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tachun1801&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tachun1801&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📫 CONTACT
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/tachun1801)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thanhtrung-ng/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Tachun1801)
+<a href="https://www.facebook.com/trungthanh.1801">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://t.me/tachun1801">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thanhtrung-ng/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Tachun1801">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -100,7 +133,10 @@
 
 <div align="center">
 
-### 📍 Hanoi, Vietnam  
-### ⭐ Open for Backend / Cloud / BrSE roles  
+### 💡 "Build things that scale. Learn things that last."
+
+⭐ Backend • Cloud • BrSE
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
