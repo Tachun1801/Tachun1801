@@ -60,7 +60,7 @@ Languages:
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
 </p>
 
 ### Frontend
