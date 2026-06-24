@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Thanh%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20%7C%20BrSE%20Candidate&descSize=15&descAlignY=58&descColor=aad4f5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Thanh%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Development%20%E2%80%A2%20Cloud%20Computing%20%E2%80%A2%20Japanese&descSize=15&descAlignY=58&descColor=aad4f5"/>
 
 <a href="https://github.com/Tachun1801">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Engineer+%F0%9F%9A%80;Cloud+Enthusiast+%E2%98%81%EF%B8%8F;BrSE+Candidate+%F0%9F%87%AF%F0%9F%87%B5;Building+things+that+scale+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+at+HUST;Java+Backend+Developer+Path;Learning+Cloud+Computing+and+DevOps;Vietnamese+%7C+Japanese+%7C+English" />
 </a>
 
 <br/>
@@ -20,63 +20,84 @@
 
 ---
 
-## 🧭 Current Focus
-
-| | |
-|---|---|
-| 🎓 **Studying** | Computer Science @ HUST |
-| 💻 **Developing** | Java Backend Projects (Spring Boot) |
-| 📚 **Learning** | Data Structures, Databases, Software Engineering |
-| ☁️ **Exploring** | AWS & Cloud Computing |
-| 🇯🇵 **Language** | Japanese (JLPT N2 Track) |
-
-## 👨‍💻 About Me
+# 👋 About Me
 
 ```yaml
-Name:       Thanh Trung
-Alias:      Tachun1801
-Location:   Hanoi, Vietnam 🇻🇳
-University: Hanoi University of Science and Technology (HUST)
-Major:      Information Technology — Vietnam Japan Program (VJP)
+Name: Thanh Trung
+Alias: Tachun1801
 
-Focus:
-  - Backend Development (Spring Boot ecosystem)
-  - Cloud Engineering (AWS)
-  - System Design & DevOps Fundamentals
-  - Bridge Software Engineer (BrSE) career path
+Education:
+  University: Hanoi University of Science and Technology (HUST)
+  Program: Vietnam-Japan Information Technology (VJP)
+
+Current Focus:
+  - Java Backend Development
+  - Spring Boot Ecosystem
+  - Database Design
+  - Cloud Computing Fundamentals
+  - Software Engineering
 
 Languages:
-  - Vietnamese 🇻🇳  (native)
-  - Japanese   🇯🇵  (business — target JLPT N2)
-  - English    🇬🇧  (basic)
+  - Vietnamese 🇻🇳 Native
+  - Japanese 🇯🇵 JLPT N2 Track
+  - English 🇬🇧 Technical Reading
+
+Career Goal:
+  Backend Developer → Cloud Engineer
 ```
+
+---
+
+## 🎯 Current Focus
+
+| Area           | Focus                                  |
+| -------------- | -------------------------------------- |
+| 💻 Development | Java Backend Projects with Spring Boot |
+| 📚 Learning    | Data Structures, Algorithms, Databases |
+| ☁️ Cloud       | AWS Fundamentals & Cloud Concepts      |
+| 🐧 System      | Linux & DevOps Basics                  |
+| 🇯🇵 Japanese  | Daily JLPT N2 Preparation              |
 
 ---
 
 ## ⚡ Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Languages
 
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
 
-**Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Backend
 
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square\&logo=intellijidea\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 🚀 Goals for 2026
+
+* Build production-ready Spring Boot projects
+* Master Java Backend fundamentals
+* Learn AWS Cloud fundamentals
+* Achieve JLPT N2
+* Secure Backend Internship
+* Improve System Design knowledge
 
 ---
 
@@ -84,12 +105,9 @@ Languages:
 
 <div align="center">
 
-<a href="https://github.com/Tachun1801">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tachun1801&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Tachun1801">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tachun1801&layout=donut-vertical&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tachun1801&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tachun1801&layout=donut-vertical&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -103,14 +121,24 @@ Languages:
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Projects
 
-| Project | Tech | Description |
-|---|---|---|
-| 🔧 *Coming soon* | Spring Boot · MySQL · Docker | REST API backend with auth & deployment |
-| ☁️ *Coming soon* | AWS · GitHub Actions | Cloud-deployed service with CI/CD pipeline |
+| Project              | Description                                               |
+| -------------------- | --------------------------------------------------------- |
+| 🎮 Paradise Seeker   | RPG game built with LibGDX                                |
+| 🌱 Learning Projects | Java, Spring Boot and Database practice projects          |
+| ⚙️ Backend APIs      | RESTful API experiments and backend architecture practice |
 
-*Building in public — stay tuned!*
+---
+
+## 💡 Interests
+
+* Backend Architecture
+* Cloud Infrastructure
+* Software Engineering
+* DevOps Culture
+* Japanese IT Industry
+* System Design
 
 ---
 
@@ -121,15 +149,15 @@ Languages:
 <a href="https://www.linkedin.com/in/thanhtrung-ng/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/Tachun1801">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://www.facebook.com/trungthanh.1801">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://t.me/tachun1801">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
@@ -140,9 +168,11 @@ Languages:
 
 <div align="center">
 
-*「継続は力なり」— Persistence builds strength.*
+### 「継続は力なり」
 
-⚙️ Backend · ☁️ Cloud · 🇯🇵 BrSE
+Persistence builds strength.
+
+Backend Development • Cloud Computing • Japanese
 
 </div>
 
