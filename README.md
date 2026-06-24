@@ -57,6 +57,12 @@ Languages:
 
 # ⚡ Tech Stack
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
 ### Backend
 
 <p>
