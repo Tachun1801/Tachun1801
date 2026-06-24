@@ -24,9 +24,9 @@
 
 | | |
 |---|---|
-| 🔭 **Đang build** | REST API với Spring Boot + JWT authentication |
-| 📖 **Đang học** | AWS Cloud Practitioner → Solutions Architect |
-| 🇯🇵 **Japanese** | Luyện JLPT N2 — reading + listening daily |
+| 🔭 **Building** | REST API with Spring Boot + JWT authentication |
+| 📖 **Learning** | AWS Cloud Practitioner → Solutions Architect |
+| 🇯🇵 **Japanese** | Practicing JLPT N2 — reading + listening daily |
 | 🤝 **Open to** | Backend internship · BrSE junior roles |
 
 ---
@@ -49,7 +49,7 @@ Focus:
 Languages:
   - Vietnamese 🇻🇳  (native)
   - Japanese   🇯🇵  (business — target JLPT N2)
-  - English    🇬🇧  (basic)
+  - English    🇬🇧  (professional)
 ```
 
 ---
@@ -87,7 +87,7 @@ Languages:
 <div align="center">
 
 <a href="https://github.com/Tachun1801">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tachun1801&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tachun1801&show_icons=true&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Tachun1801">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tachun1801&layout=donut-vertical&theme=tokyonight&hide_border=true"/>
@@ -95,7 +95,7 @@ Languages:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tachun1801&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Tachun1801&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
@@ -107,14 +107,12 @@ Languages:
 
 ## 🏗️ Featured Projects
 
-> Các project nổi bật — cập nhật thường xuyên
-
 | Project | Tech | Description |
 |---|---|---|
 | 🔧 *Coming soon* | Spring Boot · MySQL · Docker | REST API backend with auth & deployment |
 | ☁️ *Coming soon* | AWS · GitHub Actions | Cloud-deployed service with CI/CD pipeline |
 
-*Đang build — stay tuned!*
+*Building in public — stay tuned!*
 
 ---
 
@@ -144,7 +142,7 @@ Languages:
 
 <div align="center">
 
-*「継続は力なり」— Kiên trì tạo nên sức mạnh.*
+*「継続は力なり」— Persistence builds strength.*
 
 ⚙️ Backend · ☁️ Cloud · 🇯🇵 BrSE
 
