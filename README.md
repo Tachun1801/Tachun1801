@@ -20,16 +20,15 @@
 
 ---
 
-## 🧭 Now
+## 🧭 Current Focus
 
 | | |
 |---|---|
-| 🔭 **Building** | REST API with Spring Boot + JWT authentication |
-| 📖 **Learning** | AWS Cloud Practitioner → Solutions Architect |
-| 🇯🇵 **Japanese** | Practicing JLPT N2 — reading + listening daily |
-| 🤝 **Open to** | Backend internship  |
-
----
+| 🎓 **Studying** | Computer Science @ HUST |
+| 💻 **Developing** | Java Backend Projects (Spring Boot) |
+| 📚 **Learning** | Data Structures, Databases, Software Engineering |
+| ☁️ **Exploring** | AWS & Cloud Computing |
+| 🇯🇵 **Language** | Japanese (JLPT N2 Track) |
 
 ## 👨‍💻 About Me
 
