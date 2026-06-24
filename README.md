@@ -57,6 +57,12 @@ Languages:
 
 # ⚡ Tech Stack
 
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp"/>
+</p>
+
 ### Frontend
 
 <p>
