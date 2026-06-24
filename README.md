@@ -129,7 +129,6 @@ Career Goal:
 | 🎮 Paradise Seeker     | Java · LibGDX                  | RPG game project focusing on game architecture, entities, maps, and gameplay systems.                   |
 | ⚙️ Spring Boot APIs    | Java · Spring Boot · MySQL     | Collection of backend projects for learning REST APIs, authentication, and database design.             |
 | ☁️ Cloud Learning Labs | AWS · Docker · Linux           | Hands-on cloud and deployment experiments while learning cloud engineering fundamentals.                |
-
 ```
 ```
 
