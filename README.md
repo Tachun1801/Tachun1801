@@ -72,7 +72,7 @@ Languages:
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### Cloud & DevOps
