@@ -84,7 +84,7 @@ Languages:
 ### Game Development
 
 <p>
-<img src="[https://skillicons.dev/icons?i=libgdx](https://libgdx.com/assets/brand/stacked.png)"/>
+<img src="https://skillicons.dev/icons?i=libgdx"/>
 </p>
 
 ### Cloud & DevOps
