@@ -123,13 +123,16 @@ Career Goal:
 
 ## 🏗️ Projects
 
-| Project              | Description                                               |
-| -------------------- | --------------------------------------------------------- |
-| 🎮 Paradise Seeker   | RPG game built with LibGDX                                |
-| 🌱 Learning Projects | Java, Spring Boot and Database practice projects          |
-| ⚙️ Backend APIs      | RESTful API experiments and backend architecture practice |
+| Project                | Tech                           | Description                                                                                             |
+| ---------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| 🤖 AI Platform         | Python · AI · Machine Learning | Contributed to an AI-related project, collaborating on development and experimentation within the team. |
+| 🎮 Paradise Seeker     | Java · LibGDX                  | RPG game project focusing on game architecture, entities, maps, and gameplay systems.                   |
+| ⚙️ Spring Boot APIs    | Java · Spring Boot · MySQL     | Collection of backend projects for learning REST APIs, authentication, and database design.             |
+| ☁️ Cloud Learning Labs | AWS · Docker · Linux           | Hands-on cloud and deployment experiments while learning cloud engineering fundamentals.                |
 
----
+```
+```
+
 
 ## 💡 Interests
 
