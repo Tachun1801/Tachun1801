@@ -49,7 +49,7 @@ Focus:
 Languages:
   - Vietnamese 🇻🇳  (native)
   - Japanese   🇯🇵  (business — target JLPT N2)
-  - English    🇬🇧  (professional)
+  - English    🇬🇧  (basic)
 ```
 
 ---
