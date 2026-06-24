@@ -73,7 +73,6 @@ Career Goal:
 * Container Technologies (Docker & Kubernetes)
 * System Design & Distributed Systems
 * Japanese IT Industry & Engineering Practices
----
 
 ---
 
