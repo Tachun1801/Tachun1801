@@ -51,11 +51,10 @@ Career Goal:
 
 ### Achieved
 
-* ✅ JLPT N4 (Japanese Language Proficiency Test)
+* ✅ JLPT N3 (Japanese Language Proficiency Test)
 
 ### Currently Pursuing
 
-* 🚧 JLPT N3
 * 🚧 TOEIC 700+
 
 ### Planned Certifications
