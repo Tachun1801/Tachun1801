@@ -7,7 +7,7 @@
 ```
 
               ...:::::::::..                     trung@Tachun1801 ----------------------------
-          .-+*##%%%%##**+++==-:..                OS: ............ Windows 11, Ubuntu (WSL2)
+          .-+*##%%%%##**+++==-:..                OS: ............. Windows , Fedora Linux, Kali Linux
         .+%@@@@@@@@%#*+****+++++=-..             Host: ........... Hanoi Univ. of Sci. & Tech (HUST)
       .:%@@@@@@@@#+=---=+*#*+++*#%###+:          Kernel: ......... HEDSPI - Vietnam-Japan IT Program
      :=+*@@@@@@*==-::..:..:+*+#%%=--+@@=         IDE: ............ IntelliJ IDEA, VS Code
@@ -16,16 +16,17 @@
   .=++++@@@@#=****===+=++==*#=#%%%@@%#++-.       - Languages.Computer: ..... HTML, SQL, JSON, YAML
   -=====%@@@*+*-:++==-:=+=*#*-+==--======.       - Languages.Real: ......... Vietnamese, Japanese (N3), English
   -=====+%@@@*#+-::::=-.:=#*=-----------=:
-  -===--=+@@@@#%%#**++**#%*--+*==========--+-    - Hobbies.Backend: ... Spring Boot, REST APIs, System Design
-  :----+#%@@@@@%@@@@@@@@%@#***:... ..... .==.    - Hobbies.Cloud: ..... AWS, Docker, Linux
-  .--=#%%%@@@%%@%%@@@@%%%@%#-.  ..==   .-=:
-   :=%@@@@@@@@%=::=#*@@@@#+:.... .:.  :+-.       - Contact -
-    *@@@@@@@@@@##*#%%@@@#*+++++++++++*+.         - GitHub: ..... github.com/Tachun1801
-    :*%%@@@@@@%%%%%@%%#%%%%%%########%*+:        - LinkedIn: ... linkedin.com/in/thanhtrung-ng
- ..:--=+###*****####%#*-=+##************+=-:.    - Telegram: ... t.me/tachun1801
- ...................:=+-::+:.................
-                      .::-.                      - Goal: Backend Developer -> Cloud Engineer
-
+  -===--=+@@@@#%%#**++**#%*--+*==========--+-    - Hobbies.Backend: .... Spring Boot, REST APIs, System Design
+  :----+#%@@@@@%@@@@@@@@%@#***:... ..... .==.    - Hobbies.Frontend: ... React, Vite, NodeJS
+  .--=#%%%@@@%%@%%@@@@%%%@%#-.  ..==   .-=:      - Hobbies.Cloud: ...... AWS, Docker, Linux
+   :=%@@@@@@@@%=::=#*@@@@#+:.... .:.  :+-.       - 
+    *@@@@@@@@@@##*#%%@@@#*+++++++++++*+.         - Contact -
+    :*%%@@@@@@%%%%%@%%#%%%%%%########%*+:        - GitHub: ..... github.com/Tachun1801
+ ..:--=+###*****####%#*-=+##************+=-:.    - LinkedIn: ... linkedin.com/in/thanhtrung-ng
+ ...................:=+-::+:.................    - Telegram: ... t.me/tachun1801
+                      .::-.                      - Facebook: ... facebook.com/thanhtrung.1801
+                                                 - 
+                                                 - Goal: Backend Developer -> Cloud Engineer
 ```
 
 ---
