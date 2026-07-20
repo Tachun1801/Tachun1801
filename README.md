@@ -35,6 +35,7 @@
 
 ### Achieved
 * ✅ JLPT N3 (Japanese Language Proficiency Test)
+* ✅ Japrise CEFR A2 (Japanese Speaking Assessment)
 
 ### Currently Pursuing
 * 🚧 TOEIC 700+
