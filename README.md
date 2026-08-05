@@ -7,7 +7,7 @@
 ```
 
               ...:::::::::..                     thanhtrung@Tachun1801 ----------------------------
-          .-+*##%%%%##**+++==-:..                OS: ............. Windows , Fedora Linux, Kali Linux
+          .-+*##%%%%##**+++==-:..                OS: ............. Windows , Fedora Linux
         .+%@@@@@@@@%#*+****+++++=-..             Host: ........... Hanoi Univ. of Sci. & Tech (HUST)
       .:%@@@@@@@@#+=---=+*#*+++*#%###+:          Kernel: ......... HEDSPI - Vietnam-Japan IT Program
      :=+*@@@@@@*==-::..:..:+*+#%%=--+@@=         IDE: ............ IntelliJ IDEA, VS Code
