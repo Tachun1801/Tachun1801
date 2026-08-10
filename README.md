@@ -85,7 +85,7 @@
 | Project | Link | Tech | Highlights |
 |---------|------|------|------------|
 | 🎮 Paradise Seeker |https://github.com/minhduong06-td/Project-OOP| Java · LibGDX · Gradle | Custom game architecture, entity system, tile-based world, save/load framework |
-| ⚙️ Spring Boot APIs || Java · Spring Boot · MySQL | RESTful API development, database design, authentication, CRUD operations |
+| ⚙️ TVTMP3 | Java · Spring Boot · MySQL · JavaScript · Tailwind CSS · React | RESTful API development, database design, authentication, CRUD operations, frontend-backend integration |
 | 🤖 Text-to-Speech Project || Python · AI · Deep Learning | Team-based AI project on speech synthesis and model training |
 | ☁️ Cloud Learning Labs || AWS · Docker · Linux | Containerization, deployment experiments, Linux administration |
 
