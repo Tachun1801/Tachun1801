@@ -86,8 +86,6 @@
 |---------|------|------|------------|
 | 🎮 Paradise Seeker |https://github.com/minhduong06-td/Project-OOP| Java · LibGDX · Gradle | Custom game architecture, entity system, tile-based world, save/load framework |
 | ⚙️ TVTMP3 |https://github.com/Tachun1801/TvTmp3| Java · Spring Boot · MySQL · JavaScript · Tailwind CSS · React | RESTful API development, database design, authentication, CRUD operations, frontend-backend integration |
-| 🤖 Text-to-Speech Project || Python · AI · Deep Learning | Team-based AI project on speech synthesis and model training |
-| ☁️ Cloud Learning Labs || AWS · Docker · Linux | Containerization, deployment experiments, Linux administration |
 
 ---
 
